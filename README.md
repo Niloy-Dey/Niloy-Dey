@@ -21,7 +21,7 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
   </a>
   <a href="mailto:niloydeyce@gmail.com" target="blank">
-    <img src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg](https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png)" alt="Email" height="30" width="40" />
+    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.iconfinder.com%2Ficons%2F4202011%2Femail_gmail_mail_logo_social_social_media_icon&psig=AOvVaw1gABL4foA1KFFAXyax0bSd&ust=1731255641632000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIjt4f3Tz4kDFQAAAAAdAAAAABAE" alt="Email" height="30" width="40" />
   </a>
   <a href="https://niloydeyportfolio.com" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/globe.svg" alt="Portfolio" height="30" width="40" />
