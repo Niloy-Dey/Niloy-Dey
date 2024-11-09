@@ -28,7 +28,7 @@
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h1 align="left">Languages and Tools:</h1>
 
 ### Core Languages:
 <p align="center">
