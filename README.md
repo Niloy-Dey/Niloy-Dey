@@ -45,7 +45,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="Next.js" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind" width="40" height="40"/>
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftechicons.dev%2Ficons%2Ftailwindcss&psig=AOvVaw2IrvMg_viUy-J5VVjkUkWK&ust=1731255739929000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLigj63Uz4kDFQAAAAAdAAAAABAE" alt="Tailwind" width="40" height="40"/>
   <img src="https://mui.com/static/logo.png" alt="Material UI" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/saadeghi/daisyui/main/logo.svg" alt="DaisyUI" width="40" height="40"/>
 </p>
