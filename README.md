@@ -21,11 +21,10 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
   </a>
   <a href="mailto:niloydeyce@gmail.com" target="blank">
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.iconfinder.com%2Ficons%2F4202011%2Femail_gmail_mail_logo_social_social_media_icon&psig=AOvVaw1gABL4foA1KFFAXyax0bSd&ust=1731255641632000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIjt4f3Tz4kDFQAAAAAdAAAAABAE" alt="Email" height="30" width="40" />
+    <img src="https://camo.githubusercontent.com/08eae310fc9b9b569d5dbea3506751ca0b9a6038f5280f01550e8fa7a7ce68b2/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f676d61696c2e706e67" alt="Email" height="30" width="40" />
   </a>
-  <a href="https://niloydeyportfolio.com" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/globe.svg" alt="Portfolio" height="30" width="40" />
-  </a>
+  
+  
 </p>
 
 <h1 align="left">Languages and Tools:</h1>
@@ -66,7 +65,7 @@
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="Adobe XD" width="40" height="40"/>
+ 
 </p>
 
 ### Other Tools:
