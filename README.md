@@ -47,7 +47,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
   <img src="https://camo.githubusercontent.com/c4f1e69170b2569bc89d2e892efcf8f5a61f858e5d3c357ac8879bd265e6ce03/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e63792f34382f7461696c77696e645f6373732e706e67" alt="Tailwind" width="40" height="40"/>
   <img src="https://mui.com/static/logo.png" alt="Material UI" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/saadeghi/daisyui/main/logo.svg" alt="DaisyUI" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/saadeghi/daisyui-images/master/images/daisyui-logo/favicon-192.png" alt="DaisyUI" width="40" height="40"/>
 </p>
 
 ### Backend Technologies:
